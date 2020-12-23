@@ -1,0 +1,30 @@
+* {
+  font-size: 0.38cm;
+}
+
+.consultas {
+  padding: 5px;
+}
+
+input {
+  height: 21px;
+  background-color: rgb(255, 255, 255);
+}
+
+select {
+  height: 20px;
+}
+
+#titulo-main {
+  font-size: 0.58cm;
+}
+
+body {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+#tabla {
+  background-color: whitesmoke;
+  font-size: 1cm;
+}
