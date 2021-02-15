@@ -2,12 +2,10 @@
 
 _Website simulator about how database distributed work (fragmentation and repetition principles)._
 
----
-
 ### Project goal by martin-stepwolf :goal_net:
 
 Project developed in a subject when I was student.
-As better developer **I improve all the project** with my better skills.
+As better developer **I improved all the project** with my better skills.
 
 ### Achievements :star2:
 
@@ -16,6 +14,7 @@ Now I know better practices, I improved the project with:
 
 - Do not add unnecessary files to the repository (libraries and images), and use external sources.
 - Implement better functions and use let and const instead of var in JavaScript.
+- Better practices in files and directories.
 
 ## Getting Started :rocket:
 
@@ -29,10 +28,10 @@ The programs you need are:
 
 ### Main functionality ⚙️
 
-- There are 9 locations with data, these could be disabled .
+- There are 9 locations with data, these could be disabled.
 - In the form you can set in which location you are.
 - Then you can select all the data to consult.
-- When you run the consult, it show if it can be done successful and which locations are used.
+- When you run the consult, it shows if it is done successful and which locations are used.
 
 ## Authors
 
