@@ -15,6 +15,7 @@ Now I know better practices, I improved the project with:
 - Do not add unnecessary files to the repository (libraries and images), and use external sources.
 - Implement better functions and use let and const instead of var in JavaScript.
 - Better practices in files and directories.
+- Better HTML semantic.
 
 ## Getting Started :rocket:
 

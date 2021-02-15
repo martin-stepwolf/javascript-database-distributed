@@ -6,11 +6,6 @@
   padding: 1rem;
 }
 
-input {
-  height: 1.5rem;
-  background-color: rgb(255, 255, 255);
-}
-
 select {
   height: 1.5rem;
 }
@@ -22,4 +17,5 @@ body {
 
 table {
   background-color: whitesmoke;
+  width: 100%;
 }
