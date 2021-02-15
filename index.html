@@ -39,11 +39,10 @@
     </div>
   </div>
   <div class="container">
+    <h1 class="panel panel-primary">Javascript Database Distributed</h1>
     <div class="row">
       <div class="col-6">
         <p>
-          <label id="titulo-main" class="panel panel-primary">Javascript Database Distributed: Transparencia de repetición y
-            fragmentación</label>
           Entidad a ubicar:
           <select id="entidad">
             <option>L1</option>
@@ -216,7 +215,7 @@
                 <input type="text" size="7" class="vaciado">
               </p>
               <button type="button" id="todo" class="btn btn-success btn-md">
-                Marcar Todos
+                Marcar todo
               </button>
             </div>
             <div class="col-4 consultas alert alert-success">
@@ -321,7 +320,16 @@
             <div class="col-5">
               <center>
                 Las tablas a usar seran:
-                <table id="tabla" border='2cm' class="tablas">
+                <table border='2cm' class="tablas">
+                  <thead>
+                    <tr>
+                      <td>Localidad</td>
+                      <td>Tabla</td>
+                    </tr>
+                  </thead>
+                  <tbody id="tabla">
+
+                  </tbody>
                 </table>
               </center>
             </div>

@@ -1,22 +1,18 @@
 * {
-  font-size: 0.38cm;
+  font-size: .95rem;
 }
 
 .consultas {
-  padding: 5px;
+  padding: 1rem;
 }
 
 input {
-  height: 21px;
+  height: 1.5rem;
   background-color: rgb(255, 255, 255);
 }
 
 select {
-  height: 20px;
-}
-
-#titulo-main {
-  font-size: 0.58cm;
+  height: 1.5rem;
 }
 
 body {
@@ -24,7 +20,6 @@ body {
   overflow-x: hidden;
 }
 
-#tabla {
+table {
   background-color: whitesmoke;
-  font-size: 1cm;
 }
